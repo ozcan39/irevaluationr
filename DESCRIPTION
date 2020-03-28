@@ -1,0 +1,11 @@
+Package: irevaluationr
+Type: Package
+Title: Information Retrieval (IR) Effectiveness Evaluation Library for R
+Version: 1.0.0
+Author: Veli Özcan Budak
+Maintainer: Veli Özcan Budak <veliozcanbudak@gmail.com>
+Description: This library was created in order to evaluate the effectiveness of any kind of algorithm used in IR systems and analyze how well they perform.
+License: LGPL (>= 2.1)
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.1.1
